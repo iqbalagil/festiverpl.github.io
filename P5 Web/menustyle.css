@@ -1,0 +1,11 @@
+body {
+    margin: 1.5em;
+}
+
+header {
+    background-color: #ff5757;
+}
+
+menu p {
+    word-spacing: 3.5px;
+}
